@@ -23,12 +23,28 @@
 * short hand if-else
 ![shorthandif-else](https://github.com/Ankit-Khule/Conditonal-Statements-Looping-Constructs-in-Python/blob/master/images/shorthandif.JPG)
 
-## While Loop
+## [While-loop](https://github.com/Ankit-Khule/Conditonal-Statements-Looping-Constructs-in-Python/blob/master/while-loop.ipynb)
 * While loop
-* Nested while loop
-* control statements used in while loop
+![While](https://github.com/Ankit-Khule/Conditonal-Statements-Looping-Constructs-in-Python/blob/master/images/while.JPG)
 
-## For Loop
-* For loop 
+* Nested while loop
+![NestedWhile](https://github.com/Ankit-Khule/Conditonal-Statements-Looping-Constructs-in-Python/blob/master/images/nestedwhile.JPG)
+
+* control statements used in while loop
+ * pass 
+ ![pass](https://github.com/Ankit-Khule/Conditonal-Statements-Looping-Constructs-in-Python/blob/master/images/pass.JPG)
+ * break
+  ![break](https://github.com/Ankit-Khule/Conditonal-Statements-Looping-Constructs-in-Python/blob/master/images/break.JPG)
+ * continue 
+ ![continue](https://github.com/Ankit-Khule/Conditonal-Statements-Looping-Constructs-in-Python/blob/master/images/Continue.JPG)
+ 
+ 
+## [For Loop](https://github.com/Ankit-Khule/Conditonal-Statements-Looping-Constructs-in-Python/blob/master/for-loop.ipynb)
+* For loop
+ ![For](https://github.com/Ankit-Khule/Conditonal-Statements-Looping-Constructs-in-Python/blob/master/images/for.JPG)
+ 
 * Nested for Loop
-* Patterns using for loop
+ ![NestedFor](https://github.com/Ankit-Khule/Conditonal-Statements-Looping-Constructs-in-Python/blob/master/images/nestedfor.JPG)
+ 
+* range function in for loop
+ ![range](https://github.com/Ankit-Khule/Conditonal-Statements-Looping-Constructs-in-Python/blob/master/images/range.JPG)
